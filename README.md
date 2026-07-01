@@ -1,6 +1,6 @@
 # Design and Analysis of Algorithms (CS5303)
 
-Python implementations of laboratory experiments for the **Design and Analysis of Algorithms (CS5303)** course.
+Python implementations of laboratory experiments for the **Design and Analysis of Algorithms** course.
 
 ## Completed Experiments
 
@@ -14,17 +14,10 @@ Python implementations of laboratory experiments for the **Design and Analysis o
 ```text
 .
 ├── interpolation_search_project/
-├── string_matching_algorithms/
+├── naive_rabin-karp_kmp/
 └── README.md
 ```
 
 ## Language
 
 - Python 3
-
-## Course Information
-
-| Field | Details |
-|-------|---------|
-| **Course** | Design and Analysis of Algorithms |
-| **Course Code** | CS5303 |
