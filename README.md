@@ -8,6 +8,7 @@ Python implementations of laboratory experiments for the **Design and Analysis o
 |:---:|------------|
 | 1 | Implementation and Performance Analysis of Interpolation Search |
 | 2 | Comparative Analysis of Naive, Rabin-Karp, and KMP Algorithms for String Matching |
+| 3 | Implementation of Kruskal's and Prim's Algorithms for Minimum Spanning Tree |
 
 ## Repository Structure
 
