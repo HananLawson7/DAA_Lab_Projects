@@ -10,6 +10,7 @@ Python implementations of laboratory experiments for the **Design and Analysis o
 | 2 | Comparative Analysis of Naive, Rabin-Karp, and KMP Algorithms for String Matching |
 | 3 | Implementation of Kruskal's and Prim's Algorithms for Minimum Spanning Tree |
 | 4 | Implementation of Single Source Shortest Path Algorithm (Dijkstra's) |
+| 5 | To Find Min-Max Value by Applying Divide and Conquer Technique |
 
 ## Repository Structure
 
@@ -19,6 +20,7 @@ Python implementations of laboratory experiments for the **Design and Analysis o
 ├── string_matching_algorithms/
 ├── minimum_spanning_tree/
 ├── single_source_shortest_path/
+├── divide_and_conquer_min_max/
 └── README.md
 ```
 
